@@ -20,8 +20,7 @@ team_members:
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "PLACEHOLDER — fill in after Step 4 (push to GitHub)"
-# Example: "https://github.com/AlfaizKureshi/redrob-ai-ranker"
+github_repo: "https://github.com/Alfaiz777/redrob-ai-ranker"
 
 sandbox_link: "PLACEHOLDER — fill in after Step 5 (deploy dashboard)"
 # Example: "https://huggingface.co/spaces/AlfaizKureshi/redrob-ranker"
@@ -101,7 +100,5 @@ declarations:
   read_submission_spec: true
   code_is_original_work: true
   no_collusion: true
-  honeypot_check_done:
-    false # Penalty/disqualifier engines naturally deprioritise
-    # impossible profiles, but no dedicated honeypot pass was built
+  honeypot_check_done: false
   reproduction_tested: true # run.py tested end-to-end; validate_submission.py passes
