@@ -22,9 +22,7 @@ team_members:
 # ============================================================================
 github_repo: "https://github.com/Alfaiz777/redrob-ai-ranker"
 
-sandbox_link: "PLACEHOLDER — fill in after Step 5 (deploy dashboard)"
-# Example: "https://huggingface.co/spaces/AlfaizKureshi/redrob-ranker"
-# Acceptable: HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker run recipe
+sandbox_link: "https://colab.research.google.com/github/Alfaiz777/redrob-ai-ranker/blob/main/sandbox_demo.ipynb"
 
 reproduce_command: "python run.py --input data/candidates.jsonl --out submission.csv"
 # Runs the full pipeline end-to-end:
