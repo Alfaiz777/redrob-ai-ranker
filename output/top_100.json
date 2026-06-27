@@ -1,0 +1,3974 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0028793",
+    "title": "Search Engineer",
+    "experience": 7.2,
+    "companies": [
+      "Google",
+      "Amazon",
+      "Meesho"
+    ],
+    "total_score": 354.24,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 288,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": "Search Engineer has 7.2 years of experience with a final ranking score of 354.24. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Search Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Meesho, Amazon, Google."
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0078002",
+    "title": "Machine Learning Engineer",
+    "experience": 6.3,
+    "companies": [
+      "Meta",
+      "Genpact AI",
+      "CRED"
+    ],
+    "total_score": 353.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 18,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 272,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Machine Learning Engineer has 6.3 years of experience with a final ranking score of 353.6. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Machine Learning Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: CRED, Meta."
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0005649",
+    "title": "Senior Data Scientist",
+    "experience": 7.4,
+    "companies": [
+      "Sarvam AI",
+      "Aganitha",
+      "Amazon",
+      "Glance"
+    ],
+    "total_score": 345.8,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 266,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": "Senior Data Scientist has 7.4 years of experience with a final ranking score of 345.8. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Senior Data Scientist Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Amazon."
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0010257",
+    "title": "Senior Data Scientist",
+    "experience": 6.5,
+    "companies": [
+      "Google",
+      "PharmEasy",
+      "Google"
+    ],
+    "total_score": 331.2,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 276,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Senior Data Scientist has 6.5 years of experience with a final ranking score of 331.2. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Senior Data Scientist Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Google."
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0042029",
+    "title": "Senior Data Scientist",
+    "experience": 6.5,
+    "companies": [
+      "Flipkart",
+      "Observe.AI"
+    ],
+    "total_score": 330.4,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 280,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": "Senior Data Scientist has 6.5 years of experience with a final ranking score of 330.4. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Senior Data Scientist Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Flipkart."
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0018499",
+    "title": "Senior Machine Learning Engineer",
+    "experience": 7.2,
+    "companies": [
+      "Zomato",
+      "Google",
+      "Flipkart"
+    ],
+    "total_score": 330.2,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 6,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 254,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "embeddings: embedding",
+      "evaluation: offline evaluation",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Senior Machine Learning Engineer",
+      "Senior Machine Learning Engineer @ Zomato: Strong evidence (verbs=3, scale signals=2)"
+    ],
+    "flags": [],
+    "explanation": "Senior Machine Learning Engineer has 7.2 years of experience with a final ranking score of 330.2. Career evidence shows hands-on work in: retrieval, embeddings, production ml, evaluation. Current role in target domain: Senior Machine Learning Engineer Advanced ranking signals detected: ranking pipeline. Has product company experience at: Flipkart, Zomato, Google."
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0039383",
+    "title": "Applied ML Engineer",
+    "experience": 7.1,
+    "companies": [
+      "Meesho",
+      "Swiggy",
+      "Paytm"
+    ],
+    "total_score": 319.2,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 266,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": "Applied ML Engineer has 7.1 years of experience with a final ranking score of 319.2. Career evidence shows hands-on work in: search, retrieval, production ml, recommendation. Current role in target domain: Applied ML Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Meesho, Swiggy."
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0008425",
+    "title": "Senior NLP Engineer",
+    "experience": 7.8,
+    "companies": [
+      "Ola",
+      "Zomato",
+      "Amazon"
+    ],
+    "total_score": 318.6,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 5,
+      "base_score": 270,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Senior NLP Engineer has 7.8 years of experience with a final ranking score of 318.6. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Senior NLP Engineer Advanced ranking signals detected: xgboost, ranking pipeline. Has product company experience at: Ola, Zomato, Amazon."
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0039754",
+    "title": "Senior Applied Scientist",
+    "experience": 16.2,
+    "companies": [
+      "Meta",
+      "Apple",
+      "Observe.AI"
+    ],
+    "total_score": 318.5,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": -5,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 245,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Senior Applied Scientist has 16.2 years of experience with a final ranking score of 318.5. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Senior Applied Scientist Advanced ranking signals detected: xgboost, ranking pipeline. Has product company experience at: Meta."
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0088025",
+    "title": "Staff Machine Learning Engineer",
+    "experience": 8.6,
+    "companies": [
+      "Yellow.ai",
+      "Niramai",
+      "Genpact AI"
+    ],
+    "total_score": 315.9,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 5,
+      "trajectory_score": 30,
+      "product_score": 0,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 243,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "xgboost",
+      "ranking pipeline"
+    ],
+    "flags": [],
+    "explanation": "Staff Machine Learning Engineer has 8.6 years of experience with a final ranking score of 315.9. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Staff Machine Learning Engineer Advanced ranking signals detected: xgboost, ranking pipeline."
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0011687",
+    "title": "Senior NLP Engineer",
+    "experience": 7.8,
+    "companies": [
+      "Niramai",
+      "Krutrim"
+    ],
+    "total_score": 314.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 242,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "xgboost",
+      "ranking pipeline"
+    ],
+    "flags": [],
+    "explanation": "Senior NLP Engineer has 7.8 years of experience with a final ranking score of 314.6. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Senior NLP Engineer Advanced ranking signals detected: xgboost, ranking pipeline."
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0083879",
+    "title": "Machine Learning Engineer",
+    "experience": 7.1,
+    "companies": [
+      "Ola",
+      "PhonePe",
+      "Swiggy"
+    ],
+    "total_score": 312.5,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 2,
+      "location_score": 8,
+      "industry_score": 10,
+      "base_score": 250,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": "Machine Learning Engineer has 7.1 years of experience with a final ranking score of 312.5. Career evidence shows hands-on work in: search, retrieval, production ml, recommendation. Current role in target domain: Machine Learning Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Ola, Swiggy."
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0011432",
+    "title": "Senior Data Scientist",
+    "experience": 7.6,
+    "companies": [
+      "Amazon",
+      "Krutrim",
+      "Nykaa"
+    ],
+    "total_score": 305.8,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 30,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 278,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Senior Data Scientist has 7.6 years of experience with a final ranking score of 305.8. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Senior Data Scientist Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Nykaa, Amazon."
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0041669",
+    "title": "Recommendation Systems Engineer",
+    "experience": 8.0,
+    "companies": [
+      "CRED",
+      "Mad Street Den",
+      "Yellow.ai"
+    ],
+    "total_score": 304.64,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 5,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 238,
+      "availability_mult": 1.28,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer",
+      "Recommendation Systems Engineer @ CRED: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": "Recommendation Systems Engineer has 8.0 years of experience with a final ranking score of 304.64. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Recommendation Systems Engineer Has product company experience at: CRED, Mad Street Den."
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0061339",
+    "title": "Search Engineer",
+    "experience": 4.2,
+    "companies": [
+      "Rephrase.ai",
+      "Zoho",
+      "Krutrim"
+    ],
+    "total_score": 304.2,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 234,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Search Engineer has 4.2 years of experience with a final ranking score of 304.2. Career evidence shows hands-on work in: retrieval, embeddings, production ml, recommendation. Current role in target domain: Search Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Zoho."
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0055905",
+    "title": "Senior Machine Learning Engineer",
+    "experience": 8.1,
+    "companies": [
+      "Flipkart",
+      "Uber",
+      "Rephrase.ai"
+    ],
+    "total_score": 302.9,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 5,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 6,
+      "location_score": -8,
+      "industry_score": 15,
+      "base_score": 233,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "search: vector search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Senior Machine Learning Engineer"
+    ],
+    "flags": [],
+    "explanation": "Senior Machine Learning Engineer has 8.1 years of experience with a final ranking score of 302.9. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: Senior Machine Learning Engineer Advanced ranking signals detected: ranking pipeline. Has product company experience at: Flipkart, Uber."
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0070398",
+    "title": "Machine Learning Engineer",
+    "experience": 7.2,
+    "companies": [
+      "Genpact AI",
+      "Uber",
+      "Mad Street Den"
+    ],
+    "total_score": 302.45,
+    "breakdown": {
+      "feature_score": 95,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 5,
+      "base_score": 263,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": "Machine Learning Engineer has 7.2 years of experience with a final ranking score of 302.45. Career evidence shows hands-on work in: search, retrieval, production ml, recommendation. Current role in target domain: Machine Learning Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Uber, Mad Street Den."
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0062247",
+    "title": "AI Engineer",
+    "experience": 7.3,
+    "companies": [
+      "Google",
+      "Dream11"
+    ],
+    "total_score": 301.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 232,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer",
+      "AI Engineer @ Google: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": "AI Engineer has 7.3 years of experience with a final ranking score of 301.6. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: AI Engineer Has product company experience at: Google."
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0006567",
+    "title": "Senior AI Engineer",
+    "experience": 7.9,
+    "companies": [
+      "Meta",
+      "Razorpay",
+      "Glance"
+    ],
+    "total_score": 300.0,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 240,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval: information retrieval",
+      "ranking",
+      "recommendation: personalization",
+      "evaluation: a/b testing",
+      "production_ml: at scale",
+      "Current role in target domain: Senior AI Engineer",
+      "Senior Applied Scientist @ Razorpay: Ownership evidence (verbs=1)",
+      "Senior ML Engineer \u2014 Search & Ranking @ Glance: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": "Senior AI Engineer has 7.9 years of experience with a final ranking score of 300.0. Career evidence shows hands-on work in: retrieval, production ml, recommendation, evaluation. Current role in target domain: Senior AI Engineer Has product company experience at: Razorpay, Meta."
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0044883",
+    "title": "AI Engineer",
+    "experience": 6.3,
+    "companies": [
+      "Mad Street Den",
+      "Adobe",
+      "Meesho",
+      "Paytm"
+    ],
+    "total_score": 300.0,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 3,
+      "location_score": -8,
+      "industry_score": 15,
+      "base_score": 240,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": "AI Engineer has 6.3 years of experience with a final ranking score of 300.0. Career evidence shows hands-on work in: search, retrieval, embeddings, production ml. Current role in target domain: AI Engineer Advanced ranking signals detected: offline-online correlation, xgboost, lightgbm. Has product company experience at: Meesho, Mad Street Den."
+  },
+  {
+    "rank": 21,
+    "candidate_id": "CAND_0057563",
+    "title": "NLP Engineer",
+    "experience": 6.8,
+    "companies": [
+      "Locobuzz",
+      "Yellow.ai",
+      "Zoho"
+    ],
+    "total_score": 300.0,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 250,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: NLP Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 22,
+    "candidate_id": "CAND_0041610",
+    "title": "Recommendation Systems Engineer",
+    "experience": 6.7,
+    "companies": [
+      "Zoho",
+      "Observe.AI",
+      "InMobi",
+      "Swiggy"
+    ],
+    "total_score": 299.0,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 15,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 230,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer",
+      "Recommendation Systems Engineer @ Zoho: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 23,
+    "candidate_id": "CAND_0001610",
+    "title": "Machine Learning Engineer",
+    "experience": 3.0,
+    "companies": [
+      "Dream11",
+      "Flipkart",
+      "Zoho"
+    ],
+    "total_score": 298.8,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 0,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 249,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 24,
+    "candidate_id": "CAND_0079387",
+    "title": "AI Engineer",
+    "experience": 6.9,
+    "companies": [
+      "Microsoft",
+      "upGrad",
+      "Ola",
+      "BYJU'S"
+    ],
+    "total_score": 297.7,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 229,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 25,
+    "candidate_id": "CAND_0077337",
+    "title": "Staff Machine Learning Engineer",
+    "experience": 7.0,
+    "companies": [
+      "Paytm",
+      "Razorpay",
+      "Glance",
+      "Aganitha"
+    ],
+    "total_score": 296.4,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 15,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 8,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 228,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "Current role in target domain: Staff Machine Learning Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 26,
+    "candidate_id": "CAND_0044222",
+    "title": "AI Engineer",
+    "experience": 7.7,
+    "companies": [
+      "PolicyBazaar",
+      "InMobi"
+    ],
+    "total_score": 295.55,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 2,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 257,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 27,
+    "candidate_id": "CAND_0017960",
+    "title": "Recommendation Systems Engineer",
+    "experience": 7.7,
+    "companies": [
+      "Nykaa",
+      "Wysa",
+      "Sarvam AI"
+    ],
+    "total_score": 295.2,
+    "breakdown": {
+      "feature_score": 85,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 0,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 246,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 28,
+    "candidate_id": "CAND_0046525",
+    "title": "Senior Machine Learning Engineer",
+    "experience": 6.1,
+    "companies": [
+      "Genpact AI",
+      "LinkedIn"
+    ],
+    "total_score": 295.1,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 8,
+      "industry_score": 10,
+      "base_score": 227,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Senior Machine Learning Engineer",
+      "Senior Machine Learning Engineer @ Genpact AI: Strong evidence (verbs=2, scale signals=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 29,
+    "candidate_id": "CAND_0052328",
+    "title": "Recommendation Systems Engineer",
+    "experience": 6.5,
+    "companies": [
+      "Amazon",
+      "Observe.AI"
+    ],
+    "total_score": 295.0,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 17,
+      "evidence_density_score": 1,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 236,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer",
+      "Recommendation Systems Engineer @ Amazon: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 30,
+    "candidate_id": "CAND_0064326",
+    "title": "Search Engineer",
+    "experience": 7.6,
+    "companies": [
+      "Sarvam AI",
+      "Aganitha",
+      "Freshworks",
+      "Apple"
+    ],
+    "total_score": 293.97,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 6,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 239,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 31,
+    "candidate_id": "CAND_0069905",
+    "title": "Applied ML Engineer",
+    "experience": 6.6,
+    "companies": [
+      "Sarvam AI",
+      "Nykaa",
+      "Observe.AI"
+    ],
+    "total_score": 291.6,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 243,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 32,
+    "candidate_id": "CAND_0074225",
+    "title": "Machine Learning Engineer",
+    "experience": 4.3,
+    "companies": [
+      "Unacademy",
+      "Mad Street Den"
+    ],
+    "total_score": 289.2,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 241,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 33,
+    "candidate_id": "CAND_0096142",
+    "title": "Applied ML Engineer",
+    "experience": 5.0,
+    "companies": [
+      "upGrad",
+      "BYJU'S"
+    ],
+    "total_score": 286.72,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 8,
+      "base_score": 224,
+      "availability_mult": 1.28,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 34,
+    "candidate_id": "CAND_0081846",
+    "title": "Lead AI Engineer",
+    "experience": 6.7,
+    "companies": [
+      "Razorpay",
+      "Paytm"
+    ],
+    "total_score": 286.35,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 249,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "search: vector search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Lead AI Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 35,
+    "candidate_id": "CAND_0037566",
+    "title": "Machine Learning Engineer",
+    "experience": 6.9,
+    "companies": [
+      "LinkedIn",
+      "Paytm"
+    ],
+    "total_score": 286.0,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 2,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 220,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Machine Learning Engineer",
+      "Machine Learning Engineer @ LinkedIn: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 36,
+    "candidate_id": "CAND_0027691",
+    "title": "NLP Engineer",
+    "experience": 6.5,
+    "companies": [
+      "Haptik",
+      "Vedantu",
+      "Meta"
+    ],
+    "total_score": 282.9,
+    "breakdown": {
+      "feature_score": 95,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 3,
+      "location_score": 8,
+      "industry_score": 9,
+      "base_score": 230,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: NLP Engineer",
+      "Applied ML Engineer @ Vedantu: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 37,
+    "candidate_id": "CAND_0037000",
+    "title": "Search Engineer",
+    "experience": 2.7,
+    "companies": [
+      "Unacademy",
+      "CRED",
+      "upGrad"
+    ],
+    "total_score": 282.7,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 0,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 257,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 38,
+    "candidate_id": "CAND_0051292",
+    "title": "Applied ML Engineer",
+    "experience": 5.2,
+    "companies": [
+      "Freshworks",
+      "Vedantu",
+      "Vedantu"
+    ],
+    "total_score": 281.67,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 229,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 39,
+    "candidate_id": "CAND_0046064",
+    "title": "Senior NLP Engineer",
+    "experience": 8.9,
+    "companies": [
+      "Salesforce",
+      "Verloop.io",
+      "Amazon"
+    ],
+    "total_score": 280.6,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 5,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 9,
+      "base_score": 244,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: vector search",
+      "embeddings: embedding",
+      "evaluation: ndcg",
+      "production_ml: production",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 40,
+    "candidate_id": "CAND_0071974",
+    "title": "Senior AI Engineer",
+    "experience": 7.8,
+    "companies": [
+      "Netflix",
+      "Meta",
+      "Mad Street Den"
+    ],
+    "total_score": 280.5,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 20,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 255,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "production_ml: production",
+      "xgboost",
+      "ranking pipeline",
+      "Current role in target domain: Senior AI Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 41,
+    "candidate_id": "CAND_0039838",
+    "title": "Recommendation Systems Engineer",
+    "experience": 4.9,
+    "companies": [
+      "Amazon",
+      "Microsoft"
+    ],
+    "total_score": 279.5,
+    "breakdown": {
+      "feature_score": 60,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 1,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 215,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm",
+      "Current role in target domain: Recommendation Systems Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 42,
+    "candidate_id": "CAND_0018549",
+    "title": "Recommendation Systems Engineer",
+    "experience": 6.8,
+    "companies": [
+      "Uber",
+      "Flipkart"
+    ],
+    "total_score": 278.4,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 18,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 232,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer",
+      "Recommendation Systems Engineer @ Uber: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 43,
+    "candidate_id": "CAND_0006418",
+    "title": "Machine Learning Engineer",
+    "experience": 5.7,
+    "companies": [
+      "Verloop.io",
+      "Flipkart"
+    ],
+    "total_score": 278.2,
+    "breakdown": {
+      "feature_score": 65,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 1,
+      "location_score": 3,
+      "industry_score": 10,
+      "base_score": 214,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm",
+      "Current role in target domain: Machine Learning Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 44,
+    "candidate_id": "CAND_0030953",
+    "title": "Search Engineer",
+    "experience": 7.8,
+    "companies": [
+      "Nykaa",
+      "Niramai",
+      "Vedantu",
+      "Observe.AI",
+      "PharmEasy"
+    ],
+    "total_score": 277.2,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 18,
+      "evidence_density_score": 6,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 264,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 45,
+    "candidate_id": "CAND_0075249",
+    "title": "Applied ML Engineer",
+    "experience": 6.2,
+    "companies": [
+      "Zomato",
+      "upGrad"
+    ],
+    "total_score": 276.75,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 13,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 4,
+      "base_score": 225,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 46,
+    "candidate_id": "CAND_0018722",
+    "title": "Recommendation Systems Engineer",
+    "experience": 6.6,
+    "companies": [
+      "Saarthi.ai",
+      "Unacademy",
+      "Swiggy"
+    ],
+    "total_score": 276.48,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 5,
+      "location_score": -8,
+      "industry_score": 4,
+      "base_score": 216,
+      "availability_mult": 1.28,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 47,
+    "candidate_id": "CAND_0091534",
+    "title": "AI Engineer",
+    "experience": 16.6,
+    "companies": [
+      "Flipkart",
+      "Adobe",
+      "Glance"
+    ],
+    "total_score": 275.6,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": -5,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 4,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 212,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 48,
+    "candidate_id": "CAND_0065195",
+    "title": "Search Engineer",
+    "experience": 5.1,
+    "companies": [
+      "CRED",
+      "Google"
+    ],
+    "total_score": 274.3,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 1,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 211,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer",
+      "Search Engineer @ CRED: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 49,
+    "candidate_id": "CAND_0099806",
+    "title": "AI Engineer",
+    "experience": 4.6,
+    "companies": [
+      "Mad Street Den",
+      "upGrad"
+    ],
+    "total_score": 274.3,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 2,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 211,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 50,
+    "candidate_id": "CAND_0091909",
+    "title": "Machine Learning Engineer",
+    "experience": 6.9,
+    "companies": [
+      "Rephrase.ai",
+      "Meta"
+    ],
+    "total_score": 274.05,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 261,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 51,
+    "candidate_id": "CAND_0019480",
+    "title": "NLP Engineer",
+    "experience": 2.8,
+    "companies": [
+      "Meesho",
+      "InMobi",
+      "Vedantu",
+      "Freshworks"
+    ],
+    "total_score": 273.92,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 0,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 0,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 214,
+      "availability_mult": 1.28,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 52,
+    "candidate_id": "CAND_0086022",
+    "title": "Senior Applied Scientist",
+    "experience": 5.3,
+    "companies": [
+      "Sarvam AI",
+      "Uber"
+    ],
+    "total_score": 273.75,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 219,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "search: vector search",
+      "embeddings: embedding",
+      "evaluation: offline evaluation",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Senior Applied Scientist"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 53,
+    "candidate_id": "CAND_0011162",
+    "title": "Recommendation Systems Engineer",
+    "experience": 5.8,
+    "companies": [
+      "upGrad",
+      "Meesho",
+      "Google"
+    ],
+    "total_score": 273.7,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 238,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 54,
+    "candidate_id": "CAND_0068811",
+    "title": "Applied ML Engineer",
+    "experience": 8.0,
+    "companies": [
+      "Freshworks",
+      "Yellow.ai",
+      "Meesho",
+      "Salesforce"
+    ],
+    "total_score": 272.5,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 5,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 218,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer",
+      "Applied ML Engineer @ Freshworks: Strong evidence (verbs=1, scale signals=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 55,
+    "candidate_id": "CAND_0045250",
+    "title": "Applied ML Engineer",
+    "experience": 6.6,
+    "companies": [
+      "Rephrase.ai",
+      "Paytm"
+    ],
+    "total_score": 271.95,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 1,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 259,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 56,
+    "candidate_id": "CAND_0079284",
+    "title": "Machine Learning Engineer",
+    "experience": 4.9,
+    "companies": [
+      "Google",
+      "Swiggy"
+    ],
+    "total_score": 270.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 10,
+      "base_score": 246,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 57,
+    "candidate_id": "CAND_0060054",
+    "title": "AI Engineer",
+    "experience": 6.4,
+    "companies": [
+      "Mad Street Den",
+      "Zomato",
+      "Uber"
+    ],
+    "total_score": 269.0,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 269,
+      "availability_mult": 1.0,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 58,
+    "candidate_id": "CAND_0076251",
+    "title": "Search Engineer",
+    "experience": 7.6,
+    "companies": [
+      "Haptik",
+      "CRED",
+      "Microsoft"
+    ],
+    "total_score": 267.95,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 1,
+      "location_score": 0,
+      "industry_score": 12,
+      "base_score": 233,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer",
+      "Search Engineer @ Haptik: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 59,
+    "candidate_id": "CAND_0000031",
+    "title": "Recommendation Systems Engineer",
+    "experience": 6.0,
+    "companies": [
+      "Swiggy",
+      "Mad Street Den",
+      "Uber",
+      "Zomato"
+    ],
+    "total_score": 267.6,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 15,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 5,
+      "location_score": 3,
+      "industry_score": 10,
+      "base_score": 223,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 60,
+    "candidate_id": "CAND_0053591",
+    "title": "AI Engineer",
+    "experience": 5.3,
+    "companies": [
+      "Ola",
+      "Swiggy"
+    ],
+    "total_score": 267.5,
+    "breakdown": {
+      "feature_score": 85,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 2,
+      "location_score": -8,
+      "industry_score": 0,
+      "base_score": 214,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 61,
+    "candidate_id": "CAND_0007009",
+    "title": "Recommendation Systems Engineer",
+    "experience": 7.9,
+    "companies": [
+      "Wysa",
+      "PolicyBazaar",
+      "Netflix"
+    ],
+    "total_score": 266.8,
+    "breakdown": {
+      "feature_score": 85,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 8,
+      "industry_score": 6,
+      "base_score": 232,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer",
+      "Recommendation Systems Engineer @ Wysa: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 62,
+    "candidate_id": "CAND_0049896",
+    "title": "Search Engineer",
+    "experience": 7.3,
+    "companies": [
+      "Unacademy",
+      "Flipkart"
+    ],
+    "total_score": 266.8,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 232,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer",
+      "Search Engineer @ Unacademy: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 63,
+    "candidate_id": "CAND_0029367",
+    "title": "Senior Data Scientist",
+    "experience": 5.7,
+    "companies": [
+      "Rephrase.ai",
+      "CRED",
+      "Vedantu"
+    ],
+    "total_score": 266.68,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 30,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 236,
+      "availability_mult": 1.13,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 64,
+    "candidate_id": "CAND_0030468",
+    "title": "Senior Applied Scientist",
+    "experience": 5.4,
+    "companies": [
+      "Swiggy",
+      "CRED",
+      "Wysa"
+    ],
+    "total_score": 264.45,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 12,
+      "base_score": 215,
+      "availability_mult": 1.23,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation: personalization",
+      "evaluation: a/b testing",
+      "production_ml: at scale",
+      "Current role in target domain: Senior Applied Scientist",
+      "Senior Applied Scientist @ Swiggy: Ownership evidence (verbs=1)",
+      "Senior Applied Scientist @ CRED: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 65,
+    "candidate_id": "CAND_0055992",
+    "title": "AI Engineer",
+    "experience": 16.9,
+    "companies": [
+      "CRED",
+      "Aganitha",
+      "Observe.AI",
+      "Ola"
+    ],
+    "total_score": 263.9,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": -5,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 6,
+      "location_score": -8,
+      "industry_score": 15,
+      "base_score": 203,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 66,
+    "candidate_id": "CAND_0042506",
+    "title": "Search Engineer",
+    "experience": 4.2,
+    "companies": [
+      "Verloop.io",
+      "Meesho"
+    ],
+    "total_score": 263.75,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 10,
+      "base_score": 211,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 67,
+    "candidate_id": "CAND_0086151",
+    "title": "Recommendation Systems Engineer",
+    "experience": 7.7,
+    "companies": [
+      "Wysa",
+      "Glance",
+      "Meta"
+    ],
+    "total_score": 262.5,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 250,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 68,
+    "candidate_id": "CAND_0030031",
+    "title": "AI Engineer",
+    "experience": 5.7,
+    "companies": [
+      "Microsoft",
+      "Amazon",
+      "Google"
+    ],
+    "total_score": 261.8,
+    "breakdown": {
+      "feature_score": 70,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 15,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 238,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 69,
+    "candidate_id": "CAND_0047721",
+    "title": "Senior Data Scientist",
+    "experience": 7.0,
+    "companies": [
+      "Microsoft",
+      "Observe.AI"
+    ],
+    "total_score": 261.8,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 238,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist",
+      "Senior Data Scientist @ Microsoft: Strong evidence (verbs=1, scale signals=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 70,
+    "candidate_id": "CAND_0044855",
+    "title": "Senior Data Scientist",
+    "experience": 6.6,
+    "companies": [
+      "Flipkart",
+      "LinkedIn",
+      "Verloop.io"
+    ],
+    "total_score": 261.62,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 30,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 254,
+      "availability_mult": 1.03,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 71,
+    "candidate_id": "CAND_0005260",
+    "title": "Senior NLP Engineer",
+    "experience": 5.2,
+    "companies": [
+      "Netflix",
+      "Yellow.ai"
+    ],
+    "total_score": 261.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 218,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "search: vector search",
+      "embeddings: embedding",
+      "evaluation: offline evaluation",
+      "production_ml: production",
+      "ranking pipeline",
+      "Current role in target domain: Senior NLP Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 72,
+    "candidate_id": "CAND_0054123",
+    "title": "Applied ML Engineer",
+    "experience": 4.7,
+    "companies": [
+      "Meta",
+      "CRED"
+    ],
+    "total_score": 259.9,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 3,
+      "location_score": 3,
+      "industry_score": 15,
+      "base_score": 226,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 73,
+    "candidate_id": "CAND_0016163",
+    "title": "Applied ML Engineer",
+    "experience": 6.7,
+    "companies": [
+      "Dream11",
+      "Verloop.io",
+      "Amazon"
+    ],
+    "total_score": 259.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 7,
+      "evidence_density_score": 1,
+      "location_score": 3,
+      "industry_score": 9,
+      "base_score": 220,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer",
+      "Applied ML Engineer @ Verloop.io: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 74,
+    "candidate_id": "CAND_0053695",
+    "title": "Recommendation Systems Engineer",
+    "experience": 5.8,
+    "companies": [
+      "Meesho",
+      "Genpact AI",
+      "Niramai"
+    ],
+    "total_score": 259.6,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 12,
+      "base_score": 236,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 75,
+    "candidate_id": "CAND_0031593",
+    "title": "Search Engineer",
+    "experience": 7.8,
+    "companies": [
+      "Genpact AI",
+      "Unacademy",
+      "Aganitha"
+    ],
+    "total_score": 258.77,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 9,
+      "base_score": 229,
+      "availability_mult": 1.13,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer",
+      "Search Engineer @ Genpact AI: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 76,
+    "candidate_id": "CAND_0037980",
+    "title": "Senior Applied Scientist",
+    "experience": 9.0,
+    "companies": [
+      "Niramai",
+      "Verloop.io",
+      "Salesforce"
+    ],
+    "total_score": 258.7,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 5,
+      "trajectory_score": 25,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 6,
+      "base_score": 199,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval: information retrieval",
+      "ranking",
+      "recommendation: personalization",
+      "evaluation framework",
+      "production_ml: at scale",
+      "Current role in target domain: Senior Applied Scientist",
+      "Senior Applied Scientist @ Niramai: Ownership evidence (verbs=2)",
+      "Senior ML Engineer \u2014 Search & Ranking @ Verloop.io: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 77,
+    "candidate_id": "CAND_0007412",
+    "title": "Applied ML Engineer",
+    "experience": 7.4,
+    "companies": [
+      "Zoho",
+      "Locobuzz",
+      "Swiggy",
+      "Glance",
+      "LinkedIn"
+    ],
+    "total_score": 258.42,
+    "breakdown": {
+      "feature_score": 70,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 0,
+      "evidence_density_score": 6,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 219,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 78,
+    "candidate_id": "CAND_0061257",
+    "title": "Staff Machine Learning Engineer",
+    "experience": 8.0,
+    "companies": [
+      "LinkedIn",
+      "Yellow.ai"
+    ],
+    "total_score": 258.0,
+    "breakdown": {
+      "feature_score": 65,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 215,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Staff Machine Learning Engineer",
+      "Staff Machine Learning Engineer @ LinkedIn: Ownership evidence (verbs=2)",
+      "Senior Applied Scientist @ Yellow.ai: Ownership evidence (verbs=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 79,
+    "candidate_id": "CAND_0006557",
+    "title": "NLP Engineer",
+    "experience": 7.9,
+    "companies": [
+      "Paytm",
+      "Apple"
+    ],
+    "total_score": 257.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 224,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: NLP Engineer",
+      "NLP Engineer @ Paytm: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 80,
+    "candidate_id": "CAND_0026532",
+    "title": "Recommendation Systems Engineer",
+    "experience": 4.8,
+    "companies": [
+      "Zomato",
+      "Mad Street Den"
+    ],
+    "total_score": 256.45,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 223,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Recommendation Systems Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 81,
+    "candidate_id": "CAND_0040887",
+    "title": "Machine Learning Engineer",
+    "experience": 4.7,
+    "companies": [
+      "Netflix",
+      "Unacademy"
+    ],
+    "total_score": 256.1,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 2,
+      "location_score": -8,
+      "industry_score": 8,
+      "base_score": 197,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Machine Learning Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 82,
+    "candidate_id": "CAND_0052682",
+    "title": "NLP Engineer",
+    "experience": 6.6,
+    "companies": [
+      "Aganitha",
+      "Salesforce"
+    ],
+    "total_score": 256.1,
+    "breakdown": {
+      "feature_score": 70,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 14,
+      "base_score": 197,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "ranking",
+      "recommendation",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: NLP Engineer",
+      "NLP Engineer @ Aganitha: Strong evidence (verbs=1, scale signals=3)",
+      "NLP Engineer @ Salesforce: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 83,
+    "candidate_id": "CAND_0058575",
+    "title": "AI Engineer",
+    "experience": 5.8,
+    "companies": [
+      "Krutrim",
+      "Aganitha",
+      "Uber"
+    ],
+    "total_score": 256.06,
+    "breakdown": {
+      "feature_score": 85,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 217,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer",
+      "AI Engineer @ Krutrim: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 84,
+    "candidate_id": "CAND_0051004",
+    "title": "Senior Data Scientist",
+    "experience": 4.7,
+    "companies": [
+      "CRED",
+      "Niramai"
+    ],
+    "total_score": 254.72,
+    "breakdown": {
+      "feature_score": 70,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 2,
+      "location_score": 3,
+      "industry_score": 14,
+      "base_score": 199,
+      "availability_mult": 1.28,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist",
+      "Senior Data Scientist @ CRED: Ownership evidence (verbs=3)",
+      "NLP Engineer @ Niramai: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 85,
+    "candidate_id": "CAND_0057701",
+    "title": "Recommendation Systems Engineer",
+    "experience": 4.1,
+    "companies": [
+      "Verloop.io"
+    ],
+    "total_score": 254.1,
+    "breakdown": {
+      "feature_score": 95,
+      "coherence_score": 20,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 1,
+      "location_score": 0,
+      "industry_score": 0,
+      "base_score": 231,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 86,
+    "candidate_id": "CAND_0078042",
+    "title": "Applied ML Engineer",
+    "experience": 4.7,
+    "companies": [
+      "PolicyBazaar",
+      "Ola"
+    ],
+    "total_score": 253.5,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 0,
+      "evidence_density_score": 3,
+      "location_score": -8,
+      "industry_score": 0,
+      "base_score": 195,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 87,
+    "candidate_id": "CAND_0079064",
+    "title": "Senior Data Scientist",
+    "experience": 5.2,
+    "companies": [
+      "Niramai",
+      "Razorpay"
+    ],
+    "total_score": 253.12,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 10,
+      "evidence_density_score": 2,
+      "location_score": 8,
+      "industry_score": 14,
+      "base_score": 224,
+      "availability_mult": 1.13,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 88,
+    "candidate_id": "CAND_0076904",
+    "title": "Senior Data Scientist",
+    "experience": 4.2,
+    "companies": [
+      "Nykaa",
+      "Mad Street Den"
+    ],
+    "total_score": 253.0,
+    "breakdown": {
+      "feature_score": 95,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": -8,
+      "industry_score": 15,
+      "base_score": 220,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist",
+      "Senior Data Scientist @ Nykaa: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 89,
+    "candidate_id": "CAND_0093912",
+    "title": "Senior Data Scientist",
+    "experience": 5.3,
+    "companies": [
+      "Razorpay",
+      "Flipkart",
+      "Apple"
+    ],
+    "total_score": 253.0,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 30,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 220,
+      "availability_mult": 1.15,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "Current role in target domain: Senior Data Scientist",
+      "Senior Data Scientist @ Razorpay: Strong evidence (verbs=2, scale signals=1)",
+      "Search Engineer @ Flipkart: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 90,
+    "candidate_id": "CAND_0013536",
+    "title": "Applied ML Engineer",
+    "experience": 14.1,
+    "companies": [
+      "Haptik",
+      "Rephrase.ai"
+    ],
+    "total_score": 252.5,
+    "breakdown": {
+      "feature_score": 75,
+      "coherence_score": 30,
+      "experience_score": 0,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 2,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 202,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 91,
+    "candidate_id": "CAND_0036437",
+    "title": "Search Engineer",
+    "experience": 4.8,
+    "companies": [
+      "Rephrase.ai",
+      "Nykaa",
+      "Ola"
+    ],
+    "total_score": 252.5,
+    "breakdown": {
+      "feature_score": 65,
+      "coherence_score": 40,
+      "experience_score": 10,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 18,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 202,
+      "availability_mult": 1.25,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer",
+      "Search Engineer @ Rephrase.ai: Strong evidence (verbs=2, scale signals=1)",
+      "Machine Learning Engineer @ Nykaa: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 92,
+    "candidate_id": "CAND_0043860",
+    "title": "Junior ML Engineer",
+    "experience": 6.1,
+    "companies": [
+      "Aganitha",
+      "Nykaa"
+    ],
+    "total_score": 252.2,
+    "breakdown": {
+      "feature_score": 65,
+      "coherence_score": 20,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 18,
+      "evidence_density_score": 1,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 194,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "production_ml: production",
+      "Current role in target domain: Junior ML Engineer",
+      "Junior ML Engineer @ Aganitha: Ownership evidence (verbs=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 93,
+    "candidate_id": "CAND_0048558",
+    "title": "Data Scientist",
+    "experience": 6.7,
+    "companies": [
+      "Rephrase.ai",
+      "Aganitha",
+      "Paytm"
+    ],
+    "total_score": 252.2,
+    "breakdown": {
+      "feature_score": 65,
+      "coherence_score": 30,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 10,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 1,
+      "location_score": 8,
+      "industry_score": 15,
+      "base_score": 194,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "production_ml: production",
+      "xgboost",
+      "Current role in target domain: Data Scientist",
+      "ML Engineer @ Paytm: Ownership evidence (verbs=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 94,
+    "candidate_id": "CAND_0081686",
+    "title": "Search Engineer",
+    "experience": 6.0,
+    "companies": [
+      "Netflix",
+      "Niramai",
+      "Zoho"
+    ],
+    "total_score": 252.0,
+    "breakdown": {
+      "feature_score": 100,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 10,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 5,
+      "location_score": -8,
+      "industry_score": 13,
+      "base_score": 240,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "embeddings",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Search Engineer"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 95,
+    "candidate_id": "CAND_0015528",
+    "title": "Applied ML Engineer",
+    "experience": 7.4,
+    "companies": [
+      "Krutrim",
+      "Locobuzz",
+      "Rephrase.ai"
+    ],
+    "total_score": 251.9,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 0,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 229,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer",
+      "Applied ML Engineer @ Krutrim: Strong evidence (verbs=1, scale signals=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 96,
+    "candidate_id": "CAND_0098846",
+    "title": "AI Engineer",
+    "experience": 7.6,
+    "companies": [
+      "upGrad",
+      "Meesho",
+      "Swiggy",
+      "Google"
+    ],
+    "total_score": 251.34,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 15,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 5,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 213,
+      "availability_mult": 1.18,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation: a/b testing",
+      "production_ml: production",
+      "Current role in target domain: AI Engineer",
+      "AI Engineer @ upGrad: Strong evidence (verbs=2, scale signals=1)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 97,
+    "candidate_id": "CAND_0010685",
+    "title": "NLP Engineer",
+    "experience": 6.7,
+    "companies": [
+      "Rephrase.ai",
+      "Microsoft",
+      "Mad Street Den",
+      "Mad Street Den"
+    ],
+    "total_score": 250.95,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 20,
+      "product_score": 10,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 15,
+      "evidence_density_score": 4,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 239,
+      "availability_mult": 1.05,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 98,
+    "candidate_id": "CAND_0043228",
+    "title": "Applied ML Engineer",
+    "experience": 6.8,
+    "companies": [
+      "Zoho",
+      "Vedantu",
+      "Yellow.ai"
+    ],
+    "total_score": 250.8,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": 20,
+      "trajectory_score": 25,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 228,
+      "availability_mult": 1.1,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "Current role in target domain: Applied ML Engineer",
+      "Applied ML Engineer @ Zoho: Strong evidence (verbs=2, scale signals=1)",
+      "Search Engineer @ Yellow.ai: Ownership evidence (verbs=2)"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 99,
+    "candidate_id": "CAND_0010770",
+    "title": "Recommendation Systems Engineer",
+    "experience": 15.2,
+    "companies": [
+      "Aganitha",
+      "Verloop.io",
+      "Observe.AI",
+      "Locobuzz"
+    ],
+    "total_score": 249.6,
+    "breakdown": {
+      "feature_score": 80,
+      "coherence_score": 40,
+      "experience_score": -5,
+      "trajectory_score": 20,
+      "product_score": 0,
+      "ranking_sys_score": 30,
+      "skill_credibility_score": 2,
+      "evidence_density_score": 5,
+      "location_score": 0,
+      "industry_score": 15,
+      "base_score": 192,
+      "availability_mult": 1.3,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "search: semantic search",
+      "production_ml: production",
+      "offline-online correlation",
+      "xgboost",
+      "lightgbm"
+    ],
+    "flags": [],
+    "explanation": ""
+  },
+  {
+    "rank": 100,
+    "candidate_id": "CAND_0075439",
+    "title": "Machine Learning Engineer",
+    "experience": 4.3,
+    "companies": [
+      "Flipkart",
+      "Genpact AI"
+    ],
+    "total_score": 249.6,
+    "breakdown": {
+      "feature_score": 90,
+      "coherence_score": 30,
+      "experience_score": 10,
+      "trajectory_score": 20,
+      "product_score": 5,
+      "ranking_sys_score": 0,
+      "skill_credibility_score": 20,
+      "evidence_density_score": 3,
+      "location_score": 0,
+      "industry_score": 10,
+      "base_score": 208,
+      "availability_mult": 1.2,
+      "penalties": 0,
+      "vector_similarity": null
+    },
+    "evidence_snippets": [
+      "retrieval",
+      "ranking",
+      "recommendation",
+      "embeddings: embedding",
+      "evaluation framework",
+      "production_ml: production",
+      "Current role in target domain: Machine Learning Engineer",
+      "Machine Learning Engineer @ Flipkart: Ownership evidence (verbs=3)"
+    ],
+    "flags": [],
+    "explanation": ""
+  }
+]

@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Keep top_100.json but ignore large retrieval artifacts
+output/retrieval/
+*.index
+*.pkl
+*.npy
+*.faiss
+
+# Large dataset — judges supply their own copy
+data/candidates.jsonl
+
+# Node
+node_modules/
+client/node_modules/
+server/node_modules/

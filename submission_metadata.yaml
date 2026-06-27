@@ -1,0 +1,107 @@
+# Redrob Hackathon — Submission Metadata
+# Generated for solo participant submission.
+# This file must be kept in sync with what you enter on the submission portal.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "AlfaizKureshi"
+
+primary_contact:
+  name: "Alfaiz Kureshi"
+  email: "alfaizkureshi111@gmail.com"
+  phone: "+91-8140322639" # TODO: replace with your actual phone number before submitting
+
+team_members:
+  - name: "Alfaiz Kureshi"
+    email: "alfaizkureshi111@gmail.com"
+    role: "Solo Participant — Full Stack Engineer (Frontend + Backend + ML Pipeline)"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "PLACEHOLDER — fill in after Step 4 (push to GitHub)"
+# Example: "https://github.com/AlfaizKureshi/redrob-ai-ranker"
+
+sandbox_link: "PLACEHOLDER — fill in after Step 5 (deploy dashboard)"
+# Example: "https://huggingface.co/spaces/AlfaizKureshi/redrob-ranker"
+# Acceptable: HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker run recipe
+
+reproduce_command: "python run.py --input data/candidates.jsonl --out submission.csv"
+# Runs the full pipeline end-to-end:
+#   1. Multi-signal scoring engine across 100K candidates (parallel, CPU-only)
+#   2. Generates submission.csv with normalized scores and per-candidate reasoning
+# Runtime: ~25 seconds on an 8-core CPU machine.
+# No GPU, no network, ~1.5 GB RAM.
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Windows 11 Home Single Language — local machine"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.14.0"
+  os: "Windows 11 (10.0.26200)"
+  uses_gpu_for_inference: false # CPU-only — no GPU at any point during ranking
+  has_network_during_ranking: false # Zero external API calls during the ranking step
+  pre_computation_required: false # Standard pipeline needs no pre-computation
+  pre_computation_time_minutes: 0 # FAISS index is optional; not used in submission
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  I read the JD and redrob_signals_doc carefully before writing any code and
+  built a personal analysis (analysis/jd_notes.md) identifying the key signals,
+  why availability should multiply rather than add, and which profiles to
+  disqualify. The overall approach — 4-step pipeline, signal priority order,
+  penalty design — came out of that reading and thinking process.
+
+  Claude Code was used as a development partner throughout: helping implement
+  the scoring modules based on the architecture I had in mind, debugging the
+  parallel processing for performance, and reviewing signal logic. For the
+  React dashboard, Claude handled most of the frontend component and layout
+  code while I directed the data structure and what to display.
+
+  No candidate profile data was passed to any LLM during the ranking step.
+  The reproduce_command makes zero external API calls.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Evidence-based multi-signal ranking engine. No LLM calls or GPU during scoring.
+
+  Four-step pipeline: (1) Hard disqualify — filters ~40K non-technical candidates
+  instantly by title and career-text signals. (2) Base score — 11 specialist
+  engines score each candidate against career_text (headline + summary + job
+  descriptions — NOT the skills list, to avoid keyword stuffing). Signals cover:
+  career evidence buckets (retrieval, ranking, search, embeddings, evaluation),
+  title coherence, product company bonus, advanced LTR signals (XGBoost,
+  offline-online correlation), career trajectory, skill credibility, location,
+  industry, and evidence density (built/shipped/scaled vs passive mentions).
+  (3) Behavioral multiplier — availability signals (open-to-work, response rate,
+  notice period, interview completion, offer acceptance) multiply the base score,
+  as the JD explicitly requires. (4) Penalties — consulting-only career, keyword
+  stuffing, LLM-only profiles, pure research, wrong AI domain (CV/speech) each
+  subtract fixed points after multiplication.
+
+  Formula: total_score = (base_score x availability_mult) - penalties.
+  Ranking is fully deterministic; ties broken by candidate_id ascending.
+  Runtime: ~25 seconds on 8-core CPU via file-slice multiprocessing.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done:
+    false # Penalty/disqualifier engines naturally deprioritise
+    # impossible profiles, but no dedicated honeypot pass was built
+  reproduction_tested: true # run.py tested end-to-end; validate_submission.py passes
