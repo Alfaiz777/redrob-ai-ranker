@@ -4,6 +4,8 @@ Evidence-based candidate ranking engine for the **India Runs Data & AI Challenge
 
 Ranks 100,000 candidates against a job description using a multi-signal scoring engine — no LLM calls, no GPU, runs in under 30 seconds on a standard CPU machine.
 
+> **Development note:** The code was built iteratively in a local working directory over the course of the hackathon — disqualifier first, then each scoring engine one at a time, then the behavioral multiplier, then penalties, then the parallel pipeline. The submission repo was assembled from that working directory as a clean copy, which is why the initial commit contains the full codebase. Subsequent commits reflect real fixes discovered during submission preparation (sandbox re-run bug, README inaccuracies, format spec compliance). Claude Code was used as a development partner throughout; declared in `submission_metadata.yaml`.
+
 ---
 
 ## Reproduce the submission
