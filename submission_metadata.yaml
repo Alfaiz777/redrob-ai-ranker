@@ -24,10 +24,10 @@ github_repo: "https://github.com/Alfaiz777/redrob-ai-ranker"
 
 sandbox_link: "https://colab.research.google.com/github/Alfaiz777/redrob-ai-ranker/blob/main/sandbox_demo.ipynb"
 
-reproduce_command: "python run.py --input data/candidates.jsonl --out submission.csv"
+reproduce_command: "python run.py --input data/candidates.jsonl --out team_AlfaizKureshi.csv"
 # Runs the full pipeline end-to-end:
 #   1. Multi-signal scoring engine across 100K candidates (parallel, CPU-only)
-#   2. Generates submission.csv with normalized scores and per-candidate reasoning
+#   2. Generates team_AlfaizKureshi.csv with normalized scores and per-candidate reasoning
 # Runtime: ~25 seconds on an 8-core CPU machine.
 # No GPU, no network, ~1.5 GB RAM.
 

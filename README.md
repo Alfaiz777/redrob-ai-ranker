@@ -11,13 +11,13 @@ Ranks 100,000 candidates against a job description using a multi-signal scoring 
 This is the single command that produces the submission CSV from the candidates file:
 
 ```bash
-python run.py --input data/candidates.jsonl --out submission.csv
+python run.py --input data/candidates.jsonl --out team_AlfaizKureshi.csv
 ```
 
 **What it does:**
 1. Runs the multi-signal scoring engine across all 100K candidates (parallel, CPU-only)
 2. Saves ranked results to `output/top_100.json`
-3. Generates `submission.csv` with normalized scores and per-candidate reasoning
+3. Generates `team_AlfaizKureshi.csv` with normalized scores and per-candidate reasoning
 
 **Expected runtime:** ~25 seconds on an 8-core CPU  
 **Memory:** ~1.5 GB RAM  
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 cp /path/to/candidates.jsonl data/candidates.jsonl
 
 # 4. Run
-python run.py --input data/candidates.jsonl --out submission.csv
+python run.py --input data/candidates.jsonl --out team_AlfaizKureshi.csv
 ```
 
 ---
@@ -51,8 +51,8 @@ python run.py --input data/candidates.jsonl --out submission.csv
 ```
 redrob-ai-ranker/
 │
-├── run.py                      # Single entry point — reproduces submission.csv
-├── submission.csv              # Pre-generated submission (final output)
+├── run.py                      # Single entry point — reproduces team_AlfaizKureshi.csv
+├── team_AlfaizKureshi.csv      # Pre-generated submission (final output)
 ├── submission_metadata.yaml    # Team info, compute specs, AI usage declaration
 ├── sandbox_demo.ipynb          # Colab sandbox — runs pipeline on 50-candidate sample
 ├── requirements.txt
