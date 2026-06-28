@@ -19,7 +19,7 @@ python run.py --input data/candidates.jsonl --out submission.csv
 2. Saves ranked results to `output/top_100.json`
 3. Generates `submission.csv` with normalized scores and per-candidate reasoning
 
-**Expected runtime:** ~25–50 seconds on an 8-core CPU  
+**Expected runtime:** ~25 seconds on an 8-core CPU  
 **Memory:** ~1.5 GB RAM  
 **No GPU required. No network calls during ranking.**
 
@@ -31,7 +31,7 @@ python run.py --input data/candidates.jsonl --out submission.csv
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO
+git clone https://github.com/Alfaiz777/redrob-ai-ranker.git
 cd redrob-ai-ranker
 
 # 2. Install dependencies
@@ -46,28 +46,19 @@ python run.py --input data/candidates.jsonl --out submission.csv
 
 ---
 
-## Validate the output
-
-The hackathon validator is included in the bundle. Run it before submitting:
-
-```bash
-python validate_submission.py submission.csv
-# Expected output: Submission is valid.
-```
-
----
-
 ## Project structure
 
 ```
 redrob-ai-ranker/
 │
 ├── run.py                      # Single entry point — reproduces submission.csv
-├── submission.csv              # Pre-generated submission (our final output)
+├── submission.csv              # Pre-generated submission (final output)
+├── submission_metadata.yaml    # Team info, compute specs, AI usage declaration
+├── sandbox_demo.ipynb          # Colab sandbox — runs pipeline on 50-candidate sample
 ├── requirements.txt
 │
 ├── src/
-│   ├── rank.py                 # Ranking pipeline (parallel, sequential, retrieval-first)
+│   ├── rank.py                 # Ranking pipeline (parallel processing, file-slice mode)
 │   ├── normalize/
 │   │   └── profiler.py         # Extracts career_text + structured fields from raw JSON
 │   └── scoring/
@@ -91,21 +82,21 @@ redrob-ai-ranker/
 │   └── generate_submission.py  # Converts top_100.json → submission.csv with reasoning
 │
 ├── explain/
-│   └── generator.py            # Evidence snippet extraction + LLM explanation (optional)
+│   └── generator.py            # Evidence snippet extraction + template reasoning
 │
 ├── output/
-│   └── top_100.json            # Pre-ranked results (committed for dashboard use)
+│   └── top_100.json            # Pre-ranked results (used by dashboard)
 │
 ├── data/
-│   └── sample_candidates.json  # First 50 candidates for quick inspection
-│                               # (candidates.jsonl is gitignored — too large)
+│   └── sample_candidates.json  # 50-candidate sample for sandbox demo
+│                               # (candidates.jsonl is gitignored — competition dataset)
 │
 ├── analysis/
 │   └── jd_notes.md             # Full JD analysis — signals, weights, disqualifiers
 │
 ├── tests/                      # pytest test suite
 │
-└── client/ + server/           # React dashboard + Node.js API (sandbox demo)
+└── client/ + server/           # React dashboard + Node.js API (visualizes top_100.json)
 ```
 
 ---
@@ -178,22 +169,6 @@ The ranking engine uses only Python standard library + `re` for scoring. No LLM 
 
 ---
 
-## Optional: FAISS retrieval pipeline
-
-A FAISS-based two-stage retrieval pipeline is available but **not required** for standard ranking. It pre-filters 100K → 3K candidates using sentence embeddings before full scoring:
-
-```bash
-# Build the index (one-time, ~5-10 min)
-python -m src.rank --input data/candidates.jsonl --build-index
-
-# Then rank using retrieval-first pipeline
-python -m src.rank --input data/candidates.jsonl --use-retrieval --output output/top_100.json --top 100
-```
-
-This is not used in our submission because the parallel scoring pipeline already runs in <30 seconds and the retrieval step adds embedding overhead without improving final ranking quality at top-100.
-
----
-
 ## Tests
 
 ```bash
@@ -202,9 +177,9 @@ pytest tests/ -v
 
 ---
 
-## Dashboard (sandbox demo)
+## Dashboard (local visualization)
 
-A React + Node.js dashboard visualizes the ranked results:
+A React + Node.js dashboard visualizes the ranked results locally:
 
 ```bash
 # Start the API server
