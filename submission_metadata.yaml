@@ -10,7 +10,7 @@ team_name: "AlfaizKureshi"
 primary_contact:
   name: "Alfaiz Kureshi"
   email: "alfaizkureshi111@gmail.com"
-  phone: "+91-8140322639" # TODO: replace with your actual phone number before submitting
+  phone: "+91-8140322639"
 
 team_members:
   - name: "Alfaiz Kureshi"
@@ -99,4 +99,4 @@ declarations:
   code_is_original_work: true
   no_collusion: true
   honeypot_check_done: true
-  reproduction_tested: true # run.py tested end-to-end; validate_submission.py passes
+  reproduction_tested: true # run.py tested end-to-end on local machine; output verified
