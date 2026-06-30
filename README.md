@@ -180,7 +180,12 @@ pytest tests/ -v
 
 ---
 
-## Dashboard (local visualization)
+## Dashboard
+
+**Live demo:** https://redrob-ai-ranker-ashen.vercel.app
+
+> **What works in the deployed demo:** All ranked results, candidate detail pages, score breakdowns, analytics, and evidence snippets — all powered by the pre-computed `output/top_100.json` from the actual ranking run.
+> **What doesn't work:** The "Run ranking engine" button and JD upload re-ranking — these require `data/candidates.jsonl` (the 800MB competition dataset) which is gitignored and not available on the free hosting server. The pre-computed results are what matter for evaluation.
 
 A React + TypeScript + Node.js dashboard visualizes the ranked results locally.
 
