@@ -2,14 +2,14 @@
 Single entry point to reproduce the submission CSV.
 
 Usage:
-    python run.py --input data/candidates.jsonl --out submission.csv
+    python run.py --input data/candidates.jsonl --out team_AlfaizKureshi.csv
 
 What it does:
   1. Runs the multi-signal scoring engine across all candidates (parallel, CPU-only)
   2. Saves ranked JSON to output/top_100.json
   3. Generates the final submission CSV with normalized scores and per-candidate reasoning
 
-Runtime: ~35-50 seconds on an 8-core CPU machine, 16 GB RAM.
+Runtime: ~25 seconds on an 8-core CPU machine, 16 GB RAM.
 No GPU required. No network calls during ranking.
 """
 
@@ -30,8 +30,8 @@ def main():
     )
     parser.add_argument(
         "--out",
-        default="submission.csv",
-        help="Output CSV path (default: submission.csv)"
+        default="team_AlfaizKureshi.csv",
+        help="Output CSV path (default: team_AlfaizKureshi.csv)"
     )
     parser.add_argument(
         "--top",
@@ -85,7 +85,6 @@ def main():
     total_time = round(time.time() - total_start, 1)
     print(f"\nDone in {total_time}s total.")
     print(f"Submission CSV: {args.out}")
-    print(f"Validate with: python validate_submission.py {args.out}")
 
 
 if __name__ == "__main__":

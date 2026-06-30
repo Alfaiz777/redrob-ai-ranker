@@ -3,7 +3,7 @@ Generate submission CSV from output/top_100.json.
 
 Usage:
     python scripts/generate_submission.py <output_path>
-    python scripts/generate_submission.py submission.csv
+    python scripts/generate_submission.py team_AlfaizKureshi.csv
 
 Produces: candidate_id, rank, score, reasoning
   - score: normalized to [0.992, 0.200] reflecting actual score gaps
@@ -261,5 +261,5 @@ def generate_csv(input_path: str, output_path: str):
 
 if __name__ == "__main__":
     in_path  = "output/top_100.json"
-    out_path = sys.argv[1] if len(sys.argv) > 1 else "submission.csv"
+    out_path = sys.argv[1] if len(sys.argv) > 1 else "team_AlfaizKureshi.csv"
     generate_csv(in_path, out_path)

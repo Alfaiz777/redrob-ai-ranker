@@ -9,7 +9,7 @@ let lastRunMeta = null;
 // POST /api/rank
 // Body: { top_n?: number, background?: boolean }
 //
-// background: true  → responds in <1s, Python runs in background (~33s with --parallel)
+// background: true  → responds in <1s, Python runs in background (~25s with --parallel)
 //                     Poll GET /api/rank/status every 3s for completion.
 // background: false → waits for Python to finish before responding.
 //                     Only use this in Postman for direct testing.
@@ -50,7 +50,7 @@ router.post('/', async (req, res) => {
   if (background) {
     res.json({
       status: 'started',
-      message: 'Ranking started in background (~60s with threaded parallel mode).',
+      message: 'Ranking started in background (~25s with parallel mode).',
       tip: 'Poll GET /api/rank/status. When in_progress=false, call GET /api/candidates for fresh results.',
     });
 

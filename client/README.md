@@ -1,73 +1,34 @@
-# React + TypeScript + Vite
+# Redrob AI Ranker — Dashboard (React Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + TypeScript + Vite frontend that visualizes the ranked candidate results.
 
-Currently, two official plugins are available:
+## What it shows
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Rankings page** — top-100 candidates with rank, score, title, experience, and flags
+- **Candidate detail** — full score breakdown across all 11 signal engines + penalty evidence
+- **Analytics page** — score distribution chart, industry breakdown, location spread
+- **AI Insights panel** — summary stats from the ranking run
 
-## React Compiler
+## How to run
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The dashboard reads from `output/top_100.json`. Make sure the ranking engine has been run first:
 
-## Expanding the ESLint configuration
+```bash
+# From repo root — generate top_100.json
+python run.py --input data/candidates.jsonl --out team_AlfaizKureshi.csv
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# Start the API server (from repo root)
+cd server && npm install && node index.js
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# In a second terminal, start the frontend
+cd client && npm install && npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Then open `http://localhost:5173`.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Stack
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- React 18 + TypeScript
+- Vite (dev server + bundler)
+- Tailwind CSS
+- Node.js + Express API (`../server/`)

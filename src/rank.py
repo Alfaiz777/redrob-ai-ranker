@@ -196,7 +196,7 @@ def rank_candidates_parallel(
       compact scored results (~4.75 MB per worker, 38 MB total).
 
     IPC payload: 8 × (str + 2 ints) in, 38 MB out.  ~280 MB eliminated.
-    Expected runtime: ~35–50 s.
+    Expected runtime: ~25 s.
     """
     workers = min(cpu_count(), 8)
     offsets = _get_chunk_offsets(input_file, workers)
@@ -466,7 +466,7 @@ def main():
     parser.add_argument(
         "--parallel",
         action="store_true",
-        help="Score candidates in parallel across CPU cores (target: under 60 seconds)"
+        help="Score candidates in parallel across CPU cores (~25 seconds on 8-core CPU)"
     )
 
     args = parser.parse_args()

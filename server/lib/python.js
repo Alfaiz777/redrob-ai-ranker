@@ -14,7 +14,7 @@ function runRankingEngine({ topN = 100 } = {}) {
       String(topN),
       "--output",
       "output/top_100.json",
-      "--parallel",   // always use multiprocessing — targets ~40-55s vs 165s serial
+      "--parallel",   // always use multiprocessing — ~25s vs 165s serial
     ];
 
     console.log(`[python] Spawning: python ${args.join(" ")}`);
